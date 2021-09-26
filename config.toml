@@ -1,0 +1,46 @@
+baseURL = "http://alvarezfmb.github.io/"
+languageCode = "es-AR"
+title = "Letters from a fellow dev"
+theme = "hugo-coder"
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+enableEmoji = true
+
+[params]
+  author = "Felipe Álvarez"
+  description = "Letters from a fellow dev"
+  info = "Software engineer, working on Android and exploring new stuff."
+  keywords = "blog,developer,personal,android"
+  colorScheme = "dark"
+
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/felipembalv/"
+
+[[params.social]]
+name = "Github"
+icon = "fa fa-github"
+weight = 1
+url = "https://github.com/alvarezfmb/"
+
+[[params.social]]
+name = "RSS"
+icon = "fa fa-rss"
+weight = 6
+url = "https://alvarezfmb.github.io/index.xml"
+rel = "alternate"
+type = "application/rss+xml"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
+
+[taxonomies]
+tag = "tags"
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Letters from a fellow dev</title>
+    <link>http://alvarezfmb.github.io/posts/</link>
+    <description>Recent content in Posts on Letters from a fellow dev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-AR</language>
+    <lastBuildDate>Sun, 26 Sep 2021 20:03:03 -0300</lastBuildDate><atom:link href="http://alvarezfmb.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static pages de Hugo hosteadas en Github Pages</title>
+      <link>http://alvarezfmb.github.io/posts/hugo-static-pages-gic-pages-github/</link>
+      <pubDate>Sun, 26 Sep 2021 20:03:03 -0300</pubDate>
+      
+      <guid>http://alvarezfmb.github.io/posts/hugo-static-pages-gic-pages-github/</guid>
+      <description>Primer post del blog hosteado en Github Pages, que permite servir páginas estáticas gratis.
+La documentación oficial de Hugo es muy fácil de seguir. El tema que use es Coder.
+ Hugo quick start Host on GitHub  </description>
+    </item>
+    
+  </channel>
+</rss>
